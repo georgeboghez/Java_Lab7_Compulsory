@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ro.uaic.info.georgeboghez","l":"Board"},{"p":"ro.uaic.info.georgeboghez","l":"Game"},{"p":"ro.uaic.info.georgeboghez","l":"Player"},{"p":"ro.uaic.info.georgeboghez","l":"Token"}]
