@@ -129,6 +129,7 @@ public class Player implements Runnable {
 
         for (int i = 0; i < k - 2; i++) {
             Token token3 = stack.peek();
+            stack.pop();
             if((double)token2.getNumber() != (double)(token3.getNumber() + token1.getNumber()) / 2.0) {
                 return false;
             }
