@@ -18,3 +18,5 @@ The main specifications of the application are:
 - Create the class Player. Each player will have a name. This class will implement the Runnable interface. In the run method the player will repeatedly extract one token from the board.
 - Create the Game class. Simulate the game using a thread for each player.
 Pay attention to the synchronization of the threads when extracting tokens from the board.
+
+![Screenshot](https://raw.githubusercontent.com/georgeboghez/Java_Lab7_Compulsory/master/Screenshot%20(2).png)
